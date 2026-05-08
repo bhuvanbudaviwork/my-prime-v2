@@ -2,7 +2,7 @@
 
 A complete end-to-end **DevSecOps CI/CD Pipeline** integrating automation, code quality analysis, security scanning, artifact management, and staging deployment using industry-standard DevOps tools.
 
----
+----
 
 # 📌 Project Overview
 
